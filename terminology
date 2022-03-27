@@ -1,0 +1,9 @@
+ApRES Terminology and Definitions
+*common terminology helpful for understanding and interpretting ApRES data
+
+ApRES: Autonomous phase-sensitive Radio Echo Sounding is a frequency modulated continuous waveform (FMCW) system that smoothly ramps (increases) 
+       emitted frequencies from 200 MHz to 400 MHz over a 1 second time interval
+
+chirp: 1 second pulse going from 200 MHz to 400 MHz (also referred to as a subburst, trace)
+burst: cluster of multiple chirps recorded one after another at a specified time. Run time for 1 burst of 100 chirps is 100 seconds (each chirp 
+       is 1 second * 100 chirps)
